@@ -1,0 +1,65 @@
+species,english,french,kota,fang,scientific,use_name,name_note,protection_phase2,protection_phase3,IUCN
+DDA,Tree hyrax,Daman d'arbre,Poyé,Ngnok,Dendrohyrax dorsalis,,,Non Protégée,Intégralement Protégée,LC
+ELE,Forest elephant,Eléphant,Zokou,Nzok,Loxodonta cyclotis,,,Intégralement Protégée,Intégralement Protégée,CR
+ORY,Aardvark,Oryctérope,Ekoudassé,Biame,Orycteropus afer,,,Intégralement Protégée,Intégralement Protégée,LC
+GOR,Gorilla,Gorille,Ndjia,Ndji,Gorilla gorilla,,,Intégralement Protégée,Intégralement Protégée,CR
+CHP,Chimpanzee,Chimpanzé,Ékoutou ndjia,Woa,Pan troglodytes,,,Intégralement Protégée,Intégralement Protégée,EN
+CNB,Black and white colobus,Colobe guereza (noir et blanc),Issembo,Soussoule,Colobus guereza,,,Intégralement Protégée,Non Protégée,LC
+MJG,Grey-cheeked mangabey,Mangabey à joues grises,Kalou,Kar,Lophocebus albigena,,,Partiellement Protégée,Non Protégée,VU
+MGA,Agile mangabey,Mangabey agile,Kakou,NA,Cercocebus agilis,,,Non Protégée,Non Protégée,LC
+MAN,Mandrill,Mandrill,Essetsé,Seuk,Mandrillus sphinx,,,Intégralement Protégée,Intégralement Protégée,VU
+TAL,Northern talapoin,Talapoin du nord,Izembi,Ngnatoung,Miopithecus ogouensis,Miopithecus talapoin,Other talaopin has weight in amniote db,Partiellement Protégée,Non Protégée,LC
+CDB,De Brazza's monkey,Cercopithèque de Brazza,Pounga,Foûng,Cercopithecus neglectus,,,Non Protégée,Non Protégée,LC
+CPO,Crowned guenon,Cercopithèque pogonias,Poundé,Essima,Cercopithecus pogonias,,,Non Protégée,Non Protégée,NT
+HOC,White-nosed guenon,Hocheur,Zia,Aveume,Cercopithecus nictitans,,,Non Protégée,Non Protégée,NT
+MST,Moustached monkey,Moustac,Impeka,Ossouk,Cercopithecus cephus,,,Non Protégée,Non Protégée,LC
+PTT,Potto,Potto,Ikoumama,Awoune,Perodicticus potto,,,Intégralement Protégée,Intégralement Protégée,NT
+PTG,Giant otter shrew,Potamogale,Houboué,Dzie,Potamogale velox,,,Non Protégée,Non Protégée,LC
+ATH,Brush-tailed porcupine,Athérure africain,Ngomba,Ngome,Atherurus africanus,,,Non Protégée,Non Protégée,LC
+HER,Cane rat,Herrison,Etsilingomba,Nveup,Thryonomys swinderianus,,,Non Protégée,Non Protégée,LC
+RAT,Pouched rat,Rat,Pokou,Tchui et Abok et Fo,Cricetomys sp,Cricetomys emini,,Non Protégée,Non Protégée,LC
+ECU,Squirrel,Ecureuil,Ngozongo et Hendé,Nvouk et Ossene,NA,Protoxerus stangeri,,Non Protégée,Non Protégée,NA
+RTL,Ratel (Honey badger),Ratel,Ibango,Mboum,Mellivora capensis,,,Non Protégée,Non Protégée,LC
+LOU,Otter,Loutre,Niongo,Abang,NA,Aonyx capensis,Aonyx congicus not in amniote db,Non Protégée,Non Protégée,NA
+NAN,African palm civet,Nandinie,Bala,Nvé,Nandinia binotata,,,Non Protégée,Non Protégée,LC
+PAN,Leopard,Panthére,Ngoye,Nze,Panthera pardus,,,Intégralement Protégée,Intégralement Protégée,VU
+CDO,African golden cat,Chat doré,Loboua,Ebio,Caracal aurata,Profelis aurata,Old name used in amniote db,Intégralement Protégée,Non Protégée,VU
+CIV,African civet,Civette d'Afrique,Yobo,Nji,Civettictis civetta,,,Non Protégée,Non Protégée,LC
+GEN,Genet,Genette,Hindji,Nsing,NA,Genetta servalina,,Non Protégée,Non Protégée,NA
+MNG,Mongoose,Mangouste,Ganya,Mvak,NA,Atilax paludinosus,,Non Protégée,Non Protégée,NA
+MPN,Black-legged mongoose,Mangouste à pattes noires,Mouendjele,Onguemvak,Bdeogale nigripes,,,Non Protégée,Non Protégée,LC
+PLQ,Long-tailed pangolin,Pangolin à longue queue,Kaka,Ka,Phataginus tetradactyla,Manis tetradactyla ,Old name used in amniote db,Partiellement Protégée,Arrêté n°0024/PR/MEFMEPCODDPAT,VU
+PCM,Tree pangolin,Pangolin commun,Kaka,Ka,Phataginus tricuspis,Manis tricuspis ,Old name used in amniote db,Partiellement Protégée,Arrêté n°0024/PR/MEFMEPCODDPAT,EN
+PGE,Giant pangolin,Pangolin géant,Pidje,Agil,Smutsia gigantea,Manis gigantea,Old name used in amniote db,Intégralement Protégée,Intégralement Protégée,EN
+POT,Red river hog,Potamochère,Ngoueya,Ndju,Potamochoerus porcus,,,Partiellement Protégée,Partiellement Protégée,LC
+HYL,Giant forest hog,Hylochère,NA,Ingarg,Hylochoerus meinertzhageni,,,Intégralement Protégée,Intégralement Protégée,LC
+BUF,African (forest) buffalo,Buffle d'Afrique,Nyaté,Nyar,Syncerus caffer nanus,Syncerus caffer,,Partiellement Protégée,Intégralement Protégée,NT
+CHV,Water chevrotain,Chevrotain aquatique,Yong hou,Jong,Hyemoschus aquaticus,,,Partiellement Protégée,Intégralement Protégée,LC
+GHA,Bushbuck,Guib harnaché,NA,NA,Tragelaphus scriptus,,,Partiellement Protégée,Partiellement Protégée,LC
+SIT,Sitatunga,Sitatunga,Boujongo,Nvul,Tragelaphus spekii,,,Partiellement Protégée,Partiellement Protégée,LC
+BON,Bongo,Bongo,NA,NA,Tragelaphus eurycerus,,,Intégralement Protégée,Intégralement Protégée,NT
+CBL,Blue duiker,Céphalophe bleu,Heli,Opbeng,Philantomba monticola,,,Non Protégée,Non Protégée,LC
+CVB,White-bellied duiker,Céphalophe à ventre blanc,Mwangala,Mien,Cephalophus leucogaster,,,Partiellement Protégée,Non Protégée,NT
+CFN,Black-fronted duiker,Céphalophe à front noir,Zoumbé,Nzoome,Cephalophus nigrifrons,,,Partiellement Protégée,Non Protégée,LC
+COG,Ogilby's duiker,Céphalophe d'Ogilby,Mbizi,Mbang Njin,Cephalophus ogilbyi,,,Partiellement Protégée,Intégralement Protégée,VU
+CPE,Peter's duiker,Céphalophe de Peters,Mbizi,Njin,Cephalophus callipygus,,,Partiellement Protégée,Non Protégée,LC
+CDJ,Yellow-backed duiker,Céphalophe à dos jaune,Zibo,Nzip,Cephalophus silvicultor,,,Partiellement Protégée,Partiellement Protégée,NT
+CBA,Bay duiker,Céphalophe bai,Ehibo,Sou,Cephalophus dorsalis,,,Partiellement Protégée,Non Protégée,NT
+CMN,Medium duiker,Céphalophe moyenne,Mbizi,Minkoro,Cephalophus sp,Cephalophus callipygus,,Partiellement Protégée,Non Protégée,NA
+VAR,Nile monitor lizard,Varan,Ngombé,Ngkar,Varanus niloticus,,,Non Protégée,Partiellement Protégée,Unassessed
+TOR,Forest hinge-back tortoise,Tortue,Koulou,Kulu,Kinixys erosa,Kinixys belliana,"No erosa in amniote, other hinge-backs have almost all same weight",Partiellement Protégée,Non Protégée,DD
+FGA,Slender-snouted crocodile,Faux gavial d'Afrique,Ngando,Ngan,Mecistops cataphractus,,,Intégralement Protégée,Intégralement Protégée,CR
+CRN,Dwarf crocodile,Crocodile nain,Kotse,Nkoume,Osteolaemus tetraspis,,,Partiellement Protégée,Intégralement Protégée,VU
+PYT,African rock python,Python,Mbomo,Nvaum,Python sebae,,,Partiellement Protégée,Partiellement Protégée,Unassessed
+VIP,Viper,Viper,Pé,Apbeu,Bitis sp,Bitis gabonica,,Non Protégée,Non Protégée,NA
+MBR,Mamba,Mamba noir,Zokounyo,Evin nyon,NA,Naja melanoleuca,,Non Protégée,Non Protégée,LC
+CAL,Hornbill,Calao,Moua et Ekouékoué,Okbokbé et Ongoung,NA,Ceratogymna atrata,,Non Protégée,Non Protégée,NA
+PIN,Guineaufowl,Pintade,Kanga et Epondé,Nkang et Involi,NA,Guttera plumifera,,Non Protégée,Non Protégée,NA
+TUR,Turaco,Touraco,Etsimokou,Koungué,NA,Corythaeola cristata,,Non Protégée,Non Protégée,LC
+PER,Grey parrot,Perroquet,Koho,Cou,Psittacus erithacus,,,Intégralement Protégée,Partiellement Protégée,EN
+PIG,African green pigeon,Pigeon,Indouma,Nzeum,Treron calvus,,,Non Protégée,Non Protégée,LC
+EPE,Raptor,Epervier,Idjoko,Obiveun et Obi,NA,Polyboroides typus,,Non Protégée,Non Protégée,NA
+AIG,Crowned eagle,Aigle,NA,NA,Stephanoaetus coronatus,,,Non Protégée,Non Protégée,NT
+AMA,Other mammal,Autre mammifère,NA,NA,NA,Cercopithecus nictitans,,NA,NA,NA
+ARE,Other reptile,Autre reptile,NA,NA,NA,Dendroaspis jamesoni,,NA,NA,NA
+AOI,Other bird,Autre oiseau,NA,NA,NA,Pternistis squamatus,,NA,NA,NA

@@ -1,0 +1,22 @@
+village,km_mkk,km_voisins,p2_data,p3_data,paraecologist,note
+C4,9.440276582288886,4.102059111892772,,,changed,
+E1,10.612024898000257,3.9270787051553206,bad,,changed,p3 data exploration revealed p2 data was incomplete (maybe sloth maybe mistrust)
+E8,13.367355287444207,6.509965593479084,,bad,changed,p3 paraecologist lied about data
+C3,17.12199049147934,8.111055895515848,,,,
+E2,21.478411182960055,10.935363196208254,,,,
+E9,28.057353687687595,17.68821489448,,,,
+C9,39.16662607744006,21.379070129918453,bad,,changed,p3 data exploration revealed p2 data was incomplete (likely mistrust)
+C7,49.43642381760605,12.093177611210642,,,,
+E4,51.2598036886507,5.249075341398083,partial,,,original p2 paraecologist lied about data (was replaced during p2)
+C5,10.393679531218778,14.219598324704295,,,,
+C10,17.5285733343207,10.16404823139784,,none,,during p3 village was virtually abandoned so no longer collected data
+E6,20.55772776261662,9.316725592864234,,,changed,
+C6,26.845298927184935,23.519187705538176,,,,
+C11,44.076915468154795,30.550930138296536,none,,,p2 no paraecologist was available so we did not collect data
+E7,57.39622906548147,28.43779791546659,,,,
+E10,17.857892283015374,11.00872727789303,partial,,changed,p2 paraecologist did not communicate clearly causing mistrust
+C1,23.83975117296682,14.716645441196633,,,,
+E3,32.57453772421201,17.50029961191717,,,,
+C2,41.34005078488399,16.3367160938924,,bad,,village developed mistrust due to government stuff between p2 and p3 unrelated to project
+C8,48.911253818104406,16.115266420040925,bad,,changed,p2 paraecologist lied about data
+E5,57.45531720492492,17.8830040554085,,,,

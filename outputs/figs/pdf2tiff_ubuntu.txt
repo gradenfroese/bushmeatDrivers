@@ -1,0 +1,28 @@
+#convert pdf to png and set dpi (here 900)
+pdftoppm fS1.pdf fS1 -png -r 900
+pdftoppm fS2.pdf fS2 -png -r 900
+
+#bulk convert pdfs to png (here 900 dpi)
+ls --color=never *.pdf | sed 's|\.pdf||' | xargs -I{} pdftoppm {}.pdf -png -r 900 {}
+
+#requires downloading pdfScale.sh in the figure folder
+https://github.com/tavinus/pdfScale/blob/master/pdfScale.sh
+
+#THEN YOU MUST CREATE A NEW .sh (pdfScale1800.sh) BY CHANGING LINE 83 TO 1800 dpi 
+
+#get new dims from target dim
+PDF=f1.pdf
+TARGET_WIDTH=3.5
+pdfinfo "$PDF" | awk -v tw=$TARGET_WIDTH '/Page size/ {printf "New Width: %.2f in, New Height: %.2f in\n", tw, tw*($5/$3)}'
+
+#resize pdf (here from 12 12 to 6 6) and convert to tiff (here 1800 dpi)
+./pdfScale.sh -r "custom in 6 6" f2.pdf f2_6in.pdf
+convert -density 1800 f2_6in.pdf -units PixelsPerInch -compress lzw f2_6in.tiff
+
+#here from 10 8 to 3.5 2.8 and convert to tiff  (here 1800 dpi)
+./pdfScale.sh -r "custom in 3.5 2.8" f1.pdf f1_3_5in.pdf
+convert -density 1800 f1_3_5in.pdf -units PixelsPerInch -compress lzw f1_3_5in.tiff
+
+#here from 8 8 to 4.5 4.5 and convert to tiff  (here 1800 dpi)
+./pdfScale1800.sh -r "custom in 4.5 4.5" f3.pdf f3_4_5in.pdf
+convert -density 1800 f3_4_5in.pdf -units PixelsPerInch -compress lzw f3_4_5in.tiff

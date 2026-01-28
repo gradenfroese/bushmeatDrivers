@@ -1,0 +1,4 @@
+for f in *.jpg; do
+    convert "$f" -compress lzw "${f%.jpg}.tiff"
+done
+
